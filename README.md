@@ -1,2 +1,2 @@
 # Password-Generator
-its a random password generator.
+Its a random password generator.
